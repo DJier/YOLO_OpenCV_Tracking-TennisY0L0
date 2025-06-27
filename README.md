@@ -140,4 +140,4 @@ MIT License — feel free to use, modify, and share.
 
 ## 📬 Contact
 
-For queries or collaboration, reach out at [your-email@example.com](mailto:your-email@example.com)
+For queries or collaboration, reach out at [abhishek3.230101005@iiitbh.ac.in](mailto:abhishek3.230101005@iiitbh.ac.in)
